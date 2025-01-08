@@ -15,24 +15,26 @@
 ## 🛠 Technical Skills
 
 <a href="https://www.java.com">
-  <img src="https://unpkg.com/simple-icons@4.25.0/icons/java.svg" alt="Java" style="width: 100px; height: 100px; border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.png" alt="Java" style="width: 100px; height: 100px; border-radius: 50%;"/>
 </a>
 
 <a href="https://spring.io/projects/spring-boot">
-  <img src="https://unpkg.com/simple-icons@4.25.0/icons/springboot.svg" alt="Spring Boot" style="width: 100px; height: 100px; border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/springboot.png" alt="Spring Boot" style="width: 100px; height: 100px; border-radius: 50%;"/>
 </a>
 
 <a href="https://www.mysql.com">
-  <img src="https://unpkg.com/simple-icons@4.25.0/icons/mysql.svg" alt="MySQL" style="width: 100px; height: 100px; border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.png" alt="MySQL" style="width: 100px; height: 100px; border-radius: 50%;"/>
 </a>
 
 <a href="https://angular.io">
-  <img src="https://unpkg.com/simple-icons@4.25.0/icons/angular.svg" alt="Angular" style="width: 100px; height: 100px; border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.png" alt="Angular" style="width: 100px; height: 100px; border-radius: 50%;"/>
 </a>
 
 <a href="https://aws.amazon.com">
-  <img src="https://unpkg.com/simple-icons@4.25.0/icons/amazonaws.svg" alt="AWS" style="width: 100px; height: 100px; border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.png" alt="AWS" style="width: 100px; height: 100px; border-radius: 50%;"/>
 </a>
+
+
 
 
 
