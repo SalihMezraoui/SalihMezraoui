@@ -14,11 +14,26 @@
 
 ## 🛠 Technical Skills
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+<a href="https://www.java.com">
+  <img src="https://example.com/java-icon.png" alt="Java" width="100" height="100"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot">
+  <img src="https://example.com/springboot-icon.png" alt="Spring Boot" width="100" height="100"/>
+</a>
+
+<a href="https://www.mysql.com">
+  <img src="https://example.com/mysql-icon.png" alt="MySQL" width="100" height="100"/>
+</a>
+
+<a href="https://angular.io">
+  <img src="https://example.com/angular-icon.png" alt="Angular" width="100" height="100"/>
+</a>
+
+<a href="https://aws.amazon.com">
+  <img src="https://example.com/aws-icon.png" alt="AWS" width="100" height="100"/>
+</a>
+
 
 
 
