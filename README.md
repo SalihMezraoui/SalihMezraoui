@@ -71,7 +71,7 @@
 
 <p align="center" style="background-color: #f6f8fa; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 80%; margin: auto;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihmezraoui&show_icons=true&locale=en&layout=compact&count_private=false" alt="salihmezraoui" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihmezraoui&show_icons=true&locale=en&layout=compact&exclude_repo=ShopNook" alt="salihmezraoui" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihmezraoui&show_icons=true&locale=en&layout=compact&exclude_repo=image-quilting" alt="salihmezraoui" />
 
 
        
