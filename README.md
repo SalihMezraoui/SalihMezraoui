@@ -60,12 +60,6 @@
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
   </a>
- <a href="https://www.scrum.org" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Scrum_logo.svg" alt="scrum" width="40" height="40"/>
-</a>
-<a href="https://www.uml.org" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/UML_2.0_logo.svg" alt="uml" width="40" height="40"/>
-</a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
   </a>
