@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mohammed Salih Mezraoui
+<img align="right" alt="coding" width="100" height="100" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 - 🚀 Passionate about building robust Java-based applications.
 - 🌐 Gained hands-on experience developing web applications through projects using Spring Boot, Node.js, Angular, and MySQL.
 - 📚 Constantly learning and improving my skills (currently exploring microservices and cloud deployment with AWS).
 - 💼 Open to Werkstudent positions in Java development.
 
-<img align="right" alt="coding" width="100" height="100" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 
 ## 💻 Projects
