@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <h2 style="font-family: Arial, sans-serif; color: #333;">My GitHub Stats</h2>
+  <h2 style="font-family: Arial, sans-serif; color: #333;">📊 My GitHub Stats</h2>
 </p>
 
 <p align="center" style="background-color: #f6f8fa; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 80%; margin: auto;">
