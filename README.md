@@ -5,7 +5,7 @@
 - 📚 Constantly learning and improving my skills (currently exploring microservices and cloud deployment with AWS).
 - 💼 Open to Werkstudent positions in Java development.
 
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+<img align="right" alt="coding" width="100" height="100" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 
 ## 💻 Projects
