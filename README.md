@@ -75,7 +75,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salihmezraoui&show_icons=true&locale=en" alt="salihmezraoui" /> 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalihMezraoui&show_icons=true&theme=radical)
 
 
 
