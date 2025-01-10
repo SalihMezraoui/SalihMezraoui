@@ -1,9 +1,16 @@
 # 👋 Hi, I'm Mohammed Salih Mezraoui
 
-- 🚀 Passionate about building robust Java-based applications.
-- 🌐 Gained hands-on experience developing web applications through projects using Spring Boot, Node.js, Angular, and MySQL.
-- 📚 Constantly learning and improving my skills (currently exploring microservices and cloud deployment with AWS).
-- 💼 Open to Werkstudent positions in Java development.
+# About Me
+
+I'm Salih Mezraoui, a Computer Science student with a deep passion for Java and web development. I’ve had the opportunity to work on several projects using **Spring Boot**, **Node.js**, **Angular**, and **MySQL**, and I'm always looking for ways to improve my skills and tackle new challenges.
+
+## Current Learning Goals:
+- **Microservices Architecture**
+- **AWS Cloud Deployment**
+- **Advanced Java and Spring Boot features**
+
+## 💼 Open to Werkstudent positions in Java development!
+
 
 ## 💻 Projects
 
