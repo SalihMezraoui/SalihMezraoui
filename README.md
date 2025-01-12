@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Mohammed Salih Mezraoui
 
-- 🚀 Passionate about building robust Java-based applications.
+- 🚀 Passionate about building robust Java-based applications and modern frontends with Angular/React.
 - 🌐 Gained hands-on experience developing web applications through projects using Spring Boot, Node.js, Angular, and MySQL.
 - 📚 Constantly learning and improving my skills (currently exploring microservices and cloud deployment with AWS).
-- 💼 Open to Werkstudent positions in Java development.
-
+- 🤝 Excited to collaborate on impactful projects that solve real-world challenges.
 
 ## 💻 Projects
 
