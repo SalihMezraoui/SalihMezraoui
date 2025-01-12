@@ -8,9 +8,9 @@
 ## 💻 Projects
 
 - **[ShopNook](https://github.com/SalihMezraoui/ShopNook)**: E-commerce app with secure payments and authentication.
-- **[Name-Pad](https://github.com/SalihMezraoui/name-pad)**: Web app for managing favorite names.
-- **[Study-Path](https://github.com/SalihMezraoui/study-path)**: Web app providing course and campus info.
-- **[Image Quilting](https://github.com/SalihMezraoui/image-quilting)**: Seamless texture creation from image patches.
+- **[name-pad](https://github.com/SalihMezraoui/name-pad)**: Web app for managing favorite names.
+- **[study-path](https://github.com/SalihMezraoui/study-path)**: Web app providing course and campus info.
+- **[image-quilting](https://github.com/SalihMezraoui/image-quilting)**: Seamless texture creation from image patches.
 
 ## 🛠 Technical Skills
 
