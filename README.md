@@ -13,7 +13,6 @@
 - **[image-quilting](https://github.com/SalihMezraoui/image-quilting)**: Seamless texture creation from image patches.
 
 ## 🛠 Technical Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/> Java
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
