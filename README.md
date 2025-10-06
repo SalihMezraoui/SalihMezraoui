@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Mohammed Salih Mezraoui
 
 - 🚀 Passionate about building robust Java-based applications and modern frontends with Angular/React.
-- 🌐 Gained hands-on experience developing web applications through projects using Spring Boot, Node.js, Angular, and MySQL.
+- 🌐 Gained hands-on experience developing web applications through projects using Spring Boot, Node.js, React, and MySQL.
 - 📚 Constantly learning and improving my skills (currently exploring microservices and cloud deployment with AWS).
 - 🤝 Excited to collaborate on impactful projects that solve real-world challenges.
 
 ## 💻 Projects
 
+- **[Libranova](https://github.com/SalihMezraoui/Libranova)**: Full-stack library system with Spring Boot & React
 - **[ShopNook](https://github.com/SalihMezraoui/ShopNook)**: E-commerce app with secure payments and authentication.
 - **[name-pad](https://github.com/SalihMezraoui/name-pad)**: Web app for managing favorite names.
 - **[study-path](https://github.com/SalihMezraoui/study-path)**: Web app providing course and campus info.
-- **[image-quilting](https://github.com/SalihMezraoui/image-quilting)**: Seamless texture creation from image patches.
 
 ## 🛠 Technical Skills
 
