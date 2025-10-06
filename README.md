@@ -70,7 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="junit5" width="40" height="40"/>
   </a>
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer" title="Mockito">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-original.svg" alt="mockito" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mockito_Logo.png" alt="Mockito" width="40" height="40"/>
   </a>
 </p>
 
