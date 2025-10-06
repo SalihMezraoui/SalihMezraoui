@@ -66,6 +66,12 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer" title="IntelliJ IDEA">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
   </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer" title="JUnit 5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="junit5" width="40" height="40"/>
+  </a>
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer" title="Mockito">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-original.svg" alt="mockito" width="40" height="40"/>
+  </a>
 </p>
 
 
