@@ -62,9 +62,12 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
+  </a>
+
+
+</p>
 
 
 
