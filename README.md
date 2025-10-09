@@ -63,10 +63,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
-  <div style="background-color: #fff; display: inline-block; border-radius: 50%; padding: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </div>
-</a>
+  </a>
+
 
 </p>
 
