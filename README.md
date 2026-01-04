@@ -2,10 +2,8 @@
 
 - 🚀 Passionate about building **robust Java/Spring Boot applications** and modern frontends with React/Angular.
 - 🌐 Experienced in developing full-stack web applications with secure REST APIs, relational & NoSQL databases, and automated tests.
-- 📚 Constantly learning and exploring **emerging trends, cutting-edge frameworks, and AI-powered tools** to accelerate development and deliver smarter solutions.
+- 📚 Constantly learning and exploring **emerging trends, cutting-edge frameworks, and AI-powered tools** to accelerate development.
 - 🤝 Open to collaborating on impactful projects that solve real-world challenges.
-- 🔗 Check out my work: [GitHub Portfolio](https://github.com/SalihMezraoui)
-
 
 ## 💻 Projects
 
