@@ -7,10 +7,10 @@
 
 ## 💻 Projects
 
-- **[Libranova](https://github.com/SalihMezraoui/Libranova)**: Full-stack library system with Spring Boot & React, JWT security, Stripe payments, admin/user features, responsive UI.
-- **[ShopNook](https://github.com/SalihMezraoui/ShopNook)**: Full-stack e-commerce app with Angular & Spring Boot, JWT/Okta security, Stripe payments, product catalog, cart.
-- **[name-pad](https://github.com/SalihMezraoui/name-pad)**: Web app for managing favorite names with Node.js, Express, MongoDB, filters, responsive UI.
-- **[study-path](https://github.com/SalihMezraoui/study-path)**: Web platform for students with PHP backend, HTML/CSS/JS frontend, planner, forum, resources, responsive design.
+- **[Libranova](https://github.com/SalihMezraoui/Libranova)**: Responsive full-stack library system with Spring Boot & React, JWT security, Stripe payments and admin/user features.
+- **[ShopNook](https://github.com/SalihMezraoui/ShopNook)**: Full-stack e-commerce app with Angular & Spring Boot, JWT/Okta security, Stripe payments, product catalog and cart.
+- **[name-pad](https://github.com/SalihMezraoui/name-pad)**: Responsive web app for managing favorite names with Node.js, Express, MongoDB and filters.
+- **[study-path](https://github.com/SalihMezraoui/study-path)**: Responsive web platform for students with PHP backend, HTML/CSS/JS frontend, planner, forum, resources, responsive design.
 
 ## 🛠 Technical Skills
 
