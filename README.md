@@ -2,7 +2,7 @@
 
 - 🚀 Passionate about building **robust Java/Spring Boot applications** and modern frontends with React/Angular.
 - 🌐 Experienced in developing full-stack web applications with secure REST APIs, relational & NoSQL databases, and automated tests.
-- 📚 Constantly learning and exploring **emerging trends, cutting-edge frameworks, and AI-powered tools** to accelerate development.
+- 📚 Always exploring **emerging tech and AI tools** to build faster, smarter, and more innovative solutions.
 - 🤝 Open to collaborating on impactful projects that solve real-world challenges.
 
 ## 💻 Projects
