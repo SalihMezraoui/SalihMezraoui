@@ -94,16 +94,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=salihmezraoui&layout=compact&langs_count=8"
-    alt="Top Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=salihmezraoui&layout=compact"
     height="165"
+    alt="Top Languages"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=salihmezraoui&show_icons=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=salihmezraoui&show_icons=true"
     height="165"
+    alt="GitHub Stats"
   />
 </p>
+
 
 
 
