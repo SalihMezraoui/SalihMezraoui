@@ -12,9 +12,6 @@
 - **[name-pad](https://github.com/SalihMezraoui/name-pad)**: Responsive web app for managing favorite names with Node.js, Express, MongoDB and filters.
 - **[study-path](https://github.com/SalihMezraoui/study-path)**: Responsive web platform for students with PHP backend, HTML/CSS/JS frontend, planner, forum and resources.
 
-c
-
-
 
 <p align="center">
   <h2 style="font-family: Arial, sans-serif; color: #333;">📊 My GitHub Stats</h2>
