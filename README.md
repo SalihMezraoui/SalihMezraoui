@@ -5,6 +5,9 @@
 - 📚 Exploring emerging technologies and AI-assisted workflows to improve development speed and code quality.
 - 🤝 Open to collaborating on impactful projects that solve real-world challenges.
 
+📍 Open to **Junior Java / Spring Boot roles in Germany**  
+🗣 Languages: English (fluent), German (C1), French (C1)
+
 ## 💻 Projects
 
 - **[Libranova](https://github.com/SalihMezraoui/Libranova)**: Responsive full-stack library system with Spring Boot & React, JWT security, Stripe payments and admin features.
