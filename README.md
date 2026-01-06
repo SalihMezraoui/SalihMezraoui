@@ -15,6 +15,9 @@
 - **[name-pad](https://github.com/SalihMezraoui/name-pad)**: Responsive web app for managing favorite names with Node.js, Express, MongoDB and filters.
 - **[study-path](https://github.com/SalihMezraoui/study-path)**: Responsive web platform for students with PHP backend, HTML/CSS/JS frontend, planner, forum and resources.
 
+For more projects and detailed descriptions, feel free to explore my [GitHub repositories](https://github.com/SalihMezraoui?tab=repositories) 🌐
+
+
 ## 🛠 Technical Skills
 
 <p align="left">
