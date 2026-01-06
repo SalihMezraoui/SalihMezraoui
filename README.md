@@ -90,20 +90,12 @@
 </p>
 
 
-<h2 align="center">📊 My GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=salihmezraoui&layout=compact"
-    height="165"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=salihmezraoui&show_icons=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-</p>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salihmezraoui&theme=github)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salihmezraoui&theme=github)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salihmezraoui&theme=github)
+
 
 
 
