@@ -23,10 +23,8 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring Boot">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-  
-  
-  <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer" title="Spring Security">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springsecurity.svg" alt="Spring Security" width="40" height="40"/>
+ <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer" title="Spring Security">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springsecurity.svg" alt="Spring Security" width="40" height="40" style="color:#6DB33F; filter: invert(42%) sepia(66%) saturate(360%) hue-rotate(70deg) brightness(95%) contrast(95%);"/>
 </a>
 
   <a href="https://hibernate.org" target="_blank" rel="noreferrer" title="Hibernate">
