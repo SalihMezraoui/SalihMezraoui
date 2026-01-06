@@ -24,7 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer" title="Spring Security">
-  <img src="https://logo.svgcdn.com/logos/springsecurity.svg" alt="spring-security" width="40" height="40"/>
+  <img src="https://logo.svgcdn.com/logos/springsecurity-dark.svg" alt="spring-security" width="40" height="40"/>
 </a>
   <a href="https://hibernate.org" target="_blank" rel="noreferrer" title="Hibernate">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
