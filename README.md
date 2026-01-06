@@ -77,6 +77,10 @@
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer" title="JUnit 5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="junit5" width="40" height="40"/>
   </a>
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer" title="Mockito">
+    <img src="assets/Mockito.png" alt="mockito" width="40" height="40"/>
+  </a>
+
 
   <!-- DevOps / Containerization -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
