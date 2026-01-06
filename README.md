@@ -93,7 +93,6 @@
 ## 📊 GitHub Stats
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salihmezraoui&theme=github)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salihmezraoui&theme=github)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salihmezraoui&theme=github)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salihmezraoui&theme=github)
 
