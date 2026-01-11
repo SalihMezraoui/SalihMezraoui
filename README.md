@@ -103,6 +103,12 @@ For more projects and detailed descriptions, feel free to explore my [GitHub rep
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salihmezraoui&theme=github)
 
 
+## 📊 GitHub Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=salihmezraoui&show_icons=true&theme=default&cache_seconds=86400)
+
+
+
 
 
 
