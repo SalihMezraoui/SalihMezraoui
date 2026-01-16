@@ -95,7 +95,7 @@ For more projects and detailed descriptions, feel free to explore my [GitHub rep
 
 </p>
 
- <!--
+ 
 ## 📊 GitHub Stats
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salihmezraoui&theme=github)
