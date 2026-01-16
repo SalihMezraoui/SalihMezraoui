@@ -4,6 +4,7 @@
 - 🌐 Experienced in developing full-stack web applications with secure REST APIs, relational & NoSQL databases, and automated tests.
 - 📚 Exploring emerging technologies and AI-assisted workflows to improve development speed and code quality.
 - 🤝 Open to collaborating on impactful projects that solve real-world challenges.
+- 🧠 I value clean, readable code, REST-first design, and writing tests to ensure maintainability and reliability.
 
 📍 Open to **Junior Java / Spring Boot roles in Germany**  
 🗣 Languages: English (fluent), German (C1), French (C1)
