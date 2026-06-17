@@ -74,9 +74,9 @@ For more, explore my [GitHub repositories](https://github.com/SalihMezraoui?tab=
 </p>
 
 ### ☁️ Cloud & Deployment
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-success?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-success?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/SalihMezraoui/Libranova/actions)
+[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://libranova-lac.vercel.app)
+[![Railway](https://img.shields.io/badge/Railway-Backend-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://libranova-production-eda2.up.railway.app)
 
 ## 📊 GitHub Stats
 
