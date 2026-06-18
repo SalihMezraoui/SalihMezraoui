@@ -6,6 +6,7 @@
 - 🌐 Building full-stack web apps with secure REST APIs, relational & NoSQL databases, and automated tests.
 - ☁️ Deploying via **CI/CD pipelines** (GitHub Actions) to cloud platforms (Vercel, Railway).
 - 📚 Exploring AI-assisted workflows to improve development speed and code quality.
+- 🌱 Currently: **M.Sc. Informatik** (Complex Software Systems) @ Hochschule Bonn-Rhein-Sieg.
 - 🤝 Open to collaborating on impactful, real-world projects.
 
 📍 Open to **Junior Java / Spring Boot roles in Germany**  
